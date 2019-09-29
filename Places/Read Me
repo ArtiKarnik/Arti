@@ -1,0 +1,4 @@
+iOS application which stores user's favorite destination and also shows in map 
+User have option to add place name and application will pin point to location 
+User can delete favorite places 
+Developed using swift 5
