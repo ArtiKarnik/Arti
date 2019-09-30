@@ -1,0 +1,4 @@
+ios Application to play music file using AVAudioPlayer
+User can rewind, forward, pause , play next or previous song. It shows time remaining for current song  
+User can save volume settings
+Developed in swift 5 
